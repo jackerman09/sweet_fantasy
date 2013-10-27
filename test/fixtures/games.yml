@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_1: 1
+  team_2: 1
+  home_team: 1
+  game_date: 2013-10-25
+
+two:
+  team_1: 1
+  team_2: 1
+  home_team: 1
+  game_date: 2013-10-25

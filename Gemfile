@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'paperclip', '~> 3.0'
+gem 'railroady'
 
 group :doc do
   gem 'sdoc', require: false
